@@ -38,7 +38,7 @@ author:
 
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -47,7 +47,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # jessie-liang-7818a1110
+  linkedin         : "https://www.linkedin.com/in/jessie-liang-7818a1110/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
