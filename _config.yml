@@ -12,7 +12,7 @@ title                    : "Jia-Wei (Jessie) Liang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https:/jessie-jwl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jessie-jwl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jessie-jwl/jessie-jwl.github.io"
 
