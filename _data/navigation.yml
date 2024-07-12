@@ -4,7 +4,7 @@ main:
     url: /publications/
 
   - title: "CV"
-    url: /files/jessie_resume.pdf
+    #url: /files/jessie_resume.pdf
 
     
   #- title: "Talks"
