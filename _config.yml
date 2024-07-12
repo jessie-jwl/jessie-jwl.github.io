@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jessie.jpg"
+  avatar           : "./images/jessie.jpg"
   name             : "Jia-Wei Liang"
   pronouns         : # example: "she/her"  
   bio              : "Computer Science PhD Student at UC Davis"
