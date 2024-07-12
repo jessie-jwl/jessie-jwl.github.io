@@ -1,11 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Human-Computer Interaction"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+venue: "UC Davis, Computer Science Department"
+date: Winter 2023 and Winter 2024
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
