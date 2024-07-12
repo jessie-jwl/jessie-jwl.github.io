@@ -21,7 +21,7 @@ repository               : "jessie-jwl/jessie-jwl.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jessie.png"
+  avatar           : "jessie1.png"
   name             : "Jia-Wei Liang"
   pronouns         : # example: "she/her"  
   bio              : "Computer Science PhD Student at the University of California, Davis"
