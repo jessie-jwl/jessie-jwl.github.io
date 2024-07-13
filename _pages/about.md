@@ -13,5 +13,6 @@ I am a computer science PhD student from UC Davis CSC (Collaborative and Social 
 Before I join UC Davis, I received my bachelor degree in Quantitative Finance from National Tsing Hua University, and my masters degree in Applied Analytics from Columbia University.
 
 **[News]**
+[2024 Teaching Assistant Excellence Award] (https://engineering.ucdavis.edu/news/departments-recognize-faculty-and-students-excellence-teaching-learning)
 
 To be updated
