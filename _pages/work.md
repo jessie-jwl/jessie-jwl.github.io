@@ -5,7 +5,7 @@ permalink: /work/
 author_profile: true
 ---
 
-###Applied Materials
+### Applied Materials
 **Business Intelligence Analyst (Aug 2017 ~ Sep 2019)**
 
 - Spearheaded the entire Chinese semiconductor market for Chemical Mechanical Planarization products.
