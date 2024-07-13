@@ -3,7 +3,7 @@ title: "Human-Computer Interaction"
 collection: teaching
 type: "Undergraduate course"
 venue: "UC Davis, Computer Science Department"
-date: 2023
+date: 2023-03-01
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
