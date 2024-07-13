@@ -7,14 +7,6 @@ date: 2021-03-01
 
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+[Course Link](https://cs.ucdavis.edu/schedules-classes/ecs-162-web-programming)
 
-Heading 1
-=========
-
-Heading 2
-=========
-
-Heading 3
-=========
 
