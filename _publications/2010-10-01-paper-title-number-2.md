@@ -1,5 +1,5 @@
 ---
-title: "How People Initiate and Respond to Discussions Around Online Community Norms - A Preliminary Analysis on Meta Stack Overflow Discussions"
+title: 'How People Initiate and Respond to Discussions Around Online Community Norms: A Preliminary Analysis on Meta Stack Overflow Discussions'
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Supporting norms-related discussions can aid people in understanding and abiding by ambiguous norms in large-scale online communities. Yet, how social and linguistic factors, such as the identities of interlocutors and the language framing of posts, can influence discussions around norms, is underexplored. In this work, we performed a preliminary analysis based on a dataset containing 123 question threads on Meta Stack Overflow, a site for discussions of the workings and policies of Stack Overflow, to understand how people initiate and respond to norms-related discussions. Results revealed that question posts with different levels of personal relatedness and question specificity have significantly different sentiments, and they also draw comments with diverged sentiments. We present implications and directions of future work based on our findings.'
