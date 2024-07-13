@@ -6,18 +6,18 @@ main:
   - title: "CV"
     url: /files/jessie_resume.pdf
 
-    
   #- title: "Talks"
     #url: /talks/       
     
   #- title: "Working Experience"
-    #url: /work/
+    #url: /portfolio/
 
-    - title: "Teaching and Working Experience"
-    url: /teaching/ 
+  - title: "Teaching Experience"
+    url: /teaching/
         
   #- title: "Blog Posts"
     #url: /year-archive/
     
- #- title: "Guide"
+  #- title: "Guide"
     #url: /markdown/
+
