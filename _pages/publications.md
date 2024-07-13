@@ -7,7 +7,7 @@ author_profile: true
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">
-    You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=vruPoKQAAAAJ&hl=en&oi=ao).
+    You can also find my articles on {{ "[my Google Scholar profile](https://scholar.google.com/citations?user=vruPoKQAAAAJ&hl=en&oi=ao)" | markdownify }}.
   </div>
 {% endif %}
 
