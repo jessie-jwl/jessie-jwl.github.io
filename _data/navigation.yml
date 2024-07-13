@@ -10,10 +10,10 @@ main:
   #- title: "Talks"
     #url: /talks/       
     
-  - title: "Working Experience"
-    url: /work/
+  #- title: "Working Experience"
+    #url: /work/
 
-    - title: "Teaching"
+    - title: "Teaching and Working Experience"
     url: /teaching/ 
         
   #- title: "Blog Posts"
