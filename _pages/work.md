@@ -7,7 +7,7 @@ author_profile: true
 ### University of California, Davis
 **PhD Researchers (Sep 2019 ~ present)**
 - Co-work with CITRIS: Activity monitoring to improve caregiver connection and care for older adults living alone with Alzheimer’s disease
-- Algorithm design, user interface design, survey methodology, modelling real life scenario
+- Algorithm design, user interface design, survey methodology, modeling real life scenario
 - Led undergraduate researchers who are interested in human-computer interaction projects
 
 
