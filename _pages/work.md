@@ -6,9 +6,11 @@ author_profile: true
 ---
 
 **Applied Materials** 
-Business Intelligence Analyst (Aug 2017 ~ Sep 2019)
-• Spearheads the entire Chinese semiconductor market for Chemical Mechanical Planarization products
-• Liaisons between sales and engineering teams; designs and manages pricing proposals and optimal tool configurations
-• Analyzes clients’ tool performance datasets and creates visualizations in order to provide intuitive strategies 
-• Sets annual revenue goals and annual tool forecasts for our manufacturing sites and suppliers
+### Business Intelligence Analyst (Aug 2017 ~ Sep 2019)
+
+- Spearheaded the entire Chinese semiconductor market for Chemical Mechanical Planarization products.
+- Liaised between sales and engineering teams; designed and managed pricing proposals and optimal tool configurations.
+- Analyzed clients’ tool performance datasets and created visualizations to provide intuitive strategies.
+- Set annual revenue goals and annual tool forecasts for our manufacturing sites and suppliers.
+
 
