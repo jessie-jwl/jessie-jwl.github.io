@@ -1,13 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "How People Initiate and Respond to Discussions Around Online Community Norms: A Preliminary Analysis on Meta Stack Overflow Discussions"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'Supporting norms-related discussions can aid people in understanding and abiding by ambiguous norms in large-scale online communities. Yet, how social and linguistic factors, such as the identities of interlocutors and the language framing of posts, can influence discussions around norms, is underexplored. In this work, we performed a preliminary analysis based on a dataset containing 123 question threads on Meta Stack Overflow, a site for discussions of the workings and policies of Stack Overflow, to understand how people initiate and respond to norms-related discussions. Results revealed that question posts with different levels of personal relatedness and question specificity have significantly different sentiments, and they also draw comments with diverged sentiments. We present implications and directions of future work based on our findings..'
+date: 2023-10-14
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3584931.3606966'
+citation: 'Jingchao Fang, Jia-Wei Liang, and Hao-Chuan Wang. 2023. How People Initiate and Respond to Discussions Around Online Community Norms: A Preliminary Analysis on Meta Stack Overflow Discussions. In Companion Publication of the 2023 Conference on Computer Supported Cooperative Work and Social Computing (CSCW '23 Companion). Association for Computing Machinery, New York, NY, USA, 221–225. https://doi.org/10.1145/3584931.3606966'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
