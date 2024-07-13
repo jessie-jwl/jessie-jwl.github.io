@@ -5,14 +5,5 @@ type: "Undergraduate course"
 venue: "UC Davis, Computer Science Department"
 date: 2023-03-01
 ---
+[Course Link](https://cs.ucdavis.edu/schedules-classes/ecs-164-human-computer-interaction)
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
