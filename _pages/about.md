@@ -14,6 +14,13 @@ Before I join UC Davis, I received my bachelor degree in Quantitative Finance fr
 
 **[News about me]**
 
+<video width="640" height="360" controls>
+  <source src="/files/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+
 [2024 Teaching Assistant Excellence Award](https://engineering.ucdavis.edu/news/departments-recognize-faculty-and-students-excellence-teaching-learning)
 
 *To be updated...*
