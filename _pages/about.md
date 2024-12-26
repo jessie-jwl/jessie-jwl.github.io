@@ -15,7 +15,7 @@ Before I join UC Davis, I received my bachelor degree in Quantitative Finance fr
 **[Recent Research Projects]**
 
 <video width="300" height="150" controls autoplay muted>
-  <source src="files/ballsandbin.mp4" type="video/mp4">
+  <source src="files/ballsandbin1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
