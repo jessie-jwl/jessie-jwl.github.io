@@ -12,7 +12,7 @@ I am a computer science PhD student from UC Davis CSC (Collaborative and Social 
 
 Before I join UC Davis, I received my bachelor degree in Quantitative Finance from National Tsing Hua University, and my masters degree in Applied Analytics from Columbia University.
 
-**[News about me]**
+**[Recent Research Projects]**
 
 <video width="300" height="150" controls autoplay muted>
   <source src="files/ballsandbin.mp4" type="video/mp4">
