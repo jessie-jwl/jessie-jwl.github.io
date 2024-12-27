@@ -64,9 +64,6 @@ collection: projects
   }
 
   img, video {
-  width: 400px;  /* Set width to 500px for both */
-  height: 300px; /* Set height to 500px for both */
- 
   border: 1px solid black; /* Adds a solid black border of 1px thickness */
   border-radius: 5px; /* Optional: rounded corners */
 }
