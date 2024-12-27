@@ -56,7 +56,7 @@ collection: projects
     height: auto; /* Maintains aspect ratio */
   }
 
-  @media (max-width: 800px) {
+  @media (max-width: 900px) {
     .media-container {
       flex-direction: column; /* Stacks the video and image vertically on smaller screens */
       align-items: center;
