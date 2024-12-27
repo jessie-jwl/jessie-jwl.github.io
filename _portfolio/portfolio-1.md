@@ -11,14 +11,14 @@ collection: projects
 
 <div class="media-container">
   <div class="media-item">
-    <video width="400" height="300" autoplay muted loop>
+    <video width="300" height="200" autoplay muted loop>
       <source src="/files/tetris-eeg_compressed.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
   
   <div class="media-item">
-    <img src="/files/Tetris_EEG_figure1.png" alt="Project Image" width="400" height="300">
+    <img src="/files/Tetris_EEG_figure1.png" alt="Project Image" width="300" height="200">
   </div>
 </div>
 
@@ -64,8 +64,8 @@ collection: projects
   }
 
   img, video {
-  width: 500px;  /* Set width to 500px for both */
-  height: 400px; /* Set height to 500px for both */
+  width: 400px;  /* Set width to 500px for both */
+  height: 300px; /* Set height to 500px for both */
   object-fit: cover; /* Ensures the content covers the full area, maintaining aspect ratio */
   border: 1px solid black; /* Adds a solid black border of 1px thickness */
   border-radius: 5px; /* Optional: rounded corners */
