@@ -15,18 +15,16 @@ Before I join UC Davis, I received my bachelor degree in Quantitative Finance fr
 **[Recent Ongoing Projects]**
 
 **i-care, an interface for caregiver**
-
 Improve caregiver-elder connections that uses vibration data instead of camera images to monitor elder's activities.
 
 **EEG and Human Perceived Fairness in the Workload Division Process**
-
 Evaluate the impact of UI designs on user cognitive load and engagement in the workload division process with electroencephalogram (EEG).
 
 **EEG and human cognitive process of writing fake reviews**
-
 Measuring EEG signals to understand how human brain operates when composing a fake review.
 
 **[Recent Awards]**
+
 [2024 Teaching Assistant Excellence Award](https://engineering.ucdavis.edu/news/departments-recognize-faculty-and-students-excellence-teaching-learning)
 
 
