@@ -1,3 +1,4 @@
+---
 title: "EEG and Human Perceived Fairness in the Workload Division Process"
 excerpt: |
   Evaluate the impact of UI designs on user cognitive load and engagement in the workload division process with electroencephalogram (EEG). <br/>
@@ -6,7 +7,7 @@ excerpt: |
     Your browser does not support the video tag.
   </video>
 collection: portfolio
-
+---
 
 • Spearheads the entire Chinese semiconductor market for Chemical Mechanical Planarization products
 • Liaisons between sales and engineering teams; designs and manages pricing proposals and optimal tool configurations
