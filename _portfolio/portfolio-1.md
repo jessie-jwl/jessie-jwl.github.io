@@ -56,7 +56,7 @@ collection: projects
     height: auto; /* Maintains aspect ratio */
   }
 
-  @media (max-width: 800px) {
+  @media (max-width: 768px) {
     .media-container {
       flex-direction: column; /* Stacks the video and image vertically on smaller screens */
       align-items: center;
@@ -64,6 +64,9 @@ collection: projects
   }
 
   img, video {
+  width: 500px;  /* Set width to 500px for both */
+  height: 400px; /* Set height to 500px for both */
+  object-fit: cover; /* Ensures the content covers the full area, maintaining aspect ratio */
   border: 1px solid black; /* Adds a solid black border of 1px thickness */
   border-radius: 5px; /* Optional: rounded corners */
 }
