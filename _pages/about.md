@@ -24,7 +24,6 @@ Evaluate the impact of UI designs on user cognitive load and engagement in the w
 Measuring EEG signals to understand how human brain operates when composing a fake review.
 
 **[Recent Awards]**
-
 [2024 Teaching Assistant Excellence Award](https://engineering.ucdavis.edu/news/departments-recognize-faculty-and-students-excellence-teaching-learning)
 
 
