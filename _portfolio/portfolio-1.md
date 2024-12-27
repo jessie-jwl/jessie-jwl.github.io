@@ -57,6 +57,11 @@ collection: projects
       align-items: center;
     }
   }
+
+  img, video {
+  border: 5px solid black; /* Adds a solid black border of 5px thickness */
+  border-radius: 5px; /* Optional: rounded corners */
+}
 </style>
 
 
