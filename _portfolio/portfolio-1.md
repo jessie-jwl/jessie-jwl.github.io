@@ -11,14 +11,14 @@ collection: projects
 
 <div class="media-container">
   <div class="media-item">
-    <video width="300" height="200" autoplay muted loop>
+    <video width="400" height="300" autoplay muted loop>
       <source src="/files/tetris-eeg_compressed.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
   
   <div class="media-item">
-    <img src="/files/Tetris_EEG_figure1.png" alt="Project Image" width="200" height="100">
+    <img src="/files/Tetris_EEG_figure1.png" alt="Project Image" width="400" height="300">
   </div>
 </div>
 
