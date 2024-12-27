@@ -25,7 +25,7 @@ collection: projects
 <p>
  • We aim to study human’s perception on fairness in terms of dividing workload in a group. For stimulating 2 people working in a group, we let participant to play a Tetris game, and they can see how their partner is playing in real time. Each participants will play 8 rounds of game. We plan to manipulate the “game summary” page (outline in blue in figure 1), and see if different UI designs would impact participants’ cognitive load, engagement, and most importantly, their perception.
 
- • Based on several related papers, we have found “social comparison” and “intention” being two important factors affecting one’s perception on fairness. We tried to implement a 2x2 within subject design on showing: (1) Note from the system: Your game difficulty level is harder (easier) than your partner, and (2) Message from your partner: Your partner sent you a thumbs up (or not) in 8 rounds of games.
+ • Based on several related papers, we have found “social comparison” and “intention” being two important factors affecting one’s perception on fairness. We planned to implement a 2x2 within subject design on showing: (1) Note from the system: Your game difficulty level is harder (easier) than your partner, and (2) Message from your partner: Your partner sent you a thumbs up (or not) in 8 rounds of games.
 
  • We designed a game platform for measuring participants’ Event-Related Potential (ERP). The game platform is auto-advanced so we could accurately sync their behavioral data with EEG measurements.
 
