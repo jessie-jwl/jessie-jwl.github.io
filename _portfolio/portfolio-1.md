@@ -18,7 +18,7 @@ collection: projects
   </div>
   
   <div class="media-item">
-    <img src="/path/to/your-image.jpg" alt="Project Image" width="300" height="200">
+    <img src="/files/Tetris_EEG_figure1.png" alt="Project Image" width="300" height="200">
   </div>
 </div>
 
