@@ -14,10 +14,10 @@ Before I join UC Davis, I received my bachelor degree in Quantitative Finance fr
 
 **[Recent Research Projects]**
 **i-care, an interface for caregiver**
-Focused on imporving caregiver-elder connections that uses vibration data instead of camera images to monitor elder's activities.
+Improve caregiver-elder connections that uses vibration data instead of camera images to monitor elder's activities.
 
 **EEG and Human Perceived Fairness in the Workload Division Process**
-Evaluated the impact of UI designs on user cognitive load and engagement in the workload division process with electroencephalogram (EEG).
+Evaluate the impact of UI designs on user cognitive load and engagement in the workload division process with electroencephalogram (EEG).
 
 **EEG and human cognitive process of writing fake reviews**
 
