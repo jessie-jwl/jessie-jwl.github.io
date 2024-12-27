@@ -51,20 +51,6 @@ collection: projects
   }
 </style>
 
-<div class="media-container">
-  <div class="media-item">
-    <video width="300" height="200" autoplay muted loop>
-      <source src="/files/tetris-eeg_compressed.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-
-  <div class="media-item">
-    <img src="/path/to/your-image.jpg" alt="Project Image" width="300" height="200">
-  </div>
-</div>
-
-<p>• Currently in the data collection process</p>
 
 
 
