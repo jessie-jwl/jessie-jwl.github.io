@@ -12,9 +12,9 @@ I am a computer science PhD student from UC Davis CSC (Collaborative and Social 
 
 Before I join UC Davis, I received my bachelor degree in Quantitative Finance from National Tsing Hua University, and my masters degree in Applied Analytics from Columbia University.
 
-**[Recent Ongoing Projects: Signal/EEG data analysis]**
+**[Recent Ongoing Projects: Signal/EEG Data Analysis]**
 
-**• i-care, an interface for caregiver**
+[**• i-care, an interface for caregiver**](https://citris.ucdavis.edu/news/citris-supported-caregiving-project-moves-simulation-pilot-study)
 Improve caregiver-elder connections that uses vibration data instead of camera images to monitor elder's activities.
 
 **• EEG and Human Perceived Fairness in the Workload Division Process**
@@ -22,6 +22,8 @@ Evaluate the impact of UI designs on user cognitive load and engagement in the w
 
 **• EEG and human cognitive process of writing fake reviews**
 Measuring EEG signals to understand how human brain operates when composing a fake review.
+
+<i> Please click on the project tab to see more <i>
 
 **[Recent Awards]**
 
