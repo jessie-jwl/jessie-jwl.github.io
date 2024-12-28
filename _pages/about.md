@@ -14,7 +14,7 @@ Before I join UC Davis, I received my bachelor degree in Quantitative Finance fr
 
 **[Recent Ongoing Projects: Signal/EEG Data Analysis]**
 
-[**• i-care, an interface for caregiver**](https://citris.ucdavis.edu/news/citris-supported-caregiving-project-moves-simulation-pilot-study)
+• [**i-care, an interface for caregiver**](https://citris.ucdavis.edu/news/citris-supported-caregiving-project-moves-simulation-pilot-study)
 Improve caregiver-elder connections that uses vibration data instead of camera images to monitor elder's activities.
 
 **• EEG and Human Perceived Fairness in the Workload Division Process**
