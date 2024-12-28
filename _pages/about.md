@@ -23,7 +23,7 @@ Evaluate the impact of UI designs on user cognitive load and engagement in the w
 **• EEG and human cognitive process of writing fake reviews**
 Measuring EEG signals to understand the cognitive patterns and emotional responses associated with the act of deception, uncovering how neurological factors influence the creation of misleading content.
 
-<i> Please click on the project tab to [see more](https://jessie-jwl.github.io/portfolio/) <i>
+<i> Please click on the [projects tab](https://jessie-jwl.github.io/portfolio/) to see more <i>
 
 **[Recent Awards]**
 
