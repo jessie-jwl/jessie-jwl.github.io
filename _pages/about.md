@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer science PhD student from UC Davis CSC (Collaborative and Social Computing) Lab, advised by [Prof. Hao-Chuan Wang](https://www.haochuanwang.info/). My research focus is in Human-Computer Interaction, Computer-Supported Cooperative Work, and Social Computing. Currently, my work is focusing on facilitating fairness in group work, especially on the workload division process within groups. Most of my work involves translating real-world scenarios into gameplay, where I invite participants to engage in these scenarios. I then study how different UI designs can influence their perceptions or motivations.
+I am a Computer Science Ph.D. candidate at UC Davis in the Collaborative and Social Computing Lab, advised by [Prof. Hao-Chuan Wang]. (https://www.haochuanwang.info/). My research bridges Human-Computer Interaction, Computer-Supported Cooperative Work, and Social Computing, with a particular focus on fairness in group collaboration. Currently, I study how workload division impacts group dynamics by designing experimental systems that simulate real-world collaboration. These systems generate rich behavioral datasets, which I analyze using statistical modeling, data visualization, and computational methods to uncover patterns in decision-making, fairness perceptions, and motivation. My work highlights how data-driven insights from user behavior can inform the design of interfaces and algorithms that support fair and effective collaboration.
 
 Before I join UC Davis, I received my bachelor degree in Quantitative Finance from National Tsing Hua University, and my masters degree in Applied Analytics from Columbia University.
 
